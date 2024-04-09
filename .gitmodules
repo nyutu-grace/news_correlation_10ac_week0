@@ -1,0 +1,3 @@
+[submodule "week0_starter_network_analysis"]
+	path = week0_starter_network_analysis
+	url = https://github.com/10xac/week0_starter_network_analysis.git
